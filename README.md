@@ -6,7 +6,7 @@ Desktop and native app engineer in Amritsar, India (IST, UTC+5:30). I build cros
 
 #### Desktop apps (Electron)
 
-- **[Image Search OCR](https://apps.microsoft.com/detail/9mx9wfk5gcf0)** on the Microsoft Store: finds images by the words inside them. OCR runs locally on a pool of Tesseract.js workers in the main process, behind a narrow IPC bridge, with search over IndexedDB.
+- **[Image Search OCR](https://apps.microsoft.com/detail/9mx9wfk5gcf0)** on the Microsoft Store ([source](https://github.com/VitalJeevanjot/image-ocr-search)): finds images by the words inside them. OCR runs locally on a pool of Tesseract.js workers in the main process, behind a narrow IPC bridge, with search over IndexedDB.
 - **[App Website Wrapper](https://apps.microsoft.com/detail/9phk8k3xgzhn)** on the Microsoft Store: turns a website URL or a local HTML project into a signed Android APK. The app drives the build toolchain in child processes and streams their output to the UI.
 - **Colour Picker Manage**: a screen colour picker built on Electron's `desktopCapturer`, with an eyedropper mode that stays on top of other windows.
 - **Screen Hide**: an always-on-top overlay that covers part or all of the screen with a colour or an image.
