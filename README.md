@@ -1,15 +1,16 @@
 ### Hi, I'm Jeevanjot Singh Vital
 
-Desktop and native app engineer in Amritsar, India (IST, UTC+5:30). I build cross-platform desktop apps with Electron, Apple-platform apps with Swift and SwiftUI, and AI-powered tools. Before that, from 2018 to 2022, I shipped blockchain oracles, protocols, bots and open-source tooling.
+Desktop and native app engineer in Amritsar, India (IST, UTC+5:30). I build cross-platform desktop apps with Electron, Apple-platform apps with Swift and SwiftUI, and web apps that browser agents can drive through WebMCP. I have six paid apps out: five on the Microsoft Store and one on the App Store. Before that, from 2018 to 2022, I shipped blockchain oracles, protocols, bots and open-source tooling.
 
 [Website](https://jeevanjotsinghvital.com) · [LinkedIn](https://www.linkedin.com/in/jeevanjot-singh/) · [YouTube](https://www.youtube.com/@VitalJeevanjot) · [Medium](https://jeevanjotsinghvital.medium.com/) · [DEV](https://dev.to/genievot) · [Devpost](https://devpost.com/genievot)
 
-#### Desktop apps (Electron)
+#### Desktop apps
 
-- **[Image Search OCR](https://apps.microsoft.com/detail/9mx9wfk5gcf0)** on the Microsoft Store: finds images by the words inside them. OCR runs locally on a pool of Tesseract.js workers in the main process, behind a narrow IPC bridge, with search over IndexedDB.
+- **[Image Search OCR](https://apps.microsoft.com/detail/9mx9wfk5gcf0)** on the Microsoft Store ([source](https://github.com/VitalJeevanjot/image-ocr-search)): finds images by the words inside them. OCR runs locally on a pool of Tesseract.js workers in the main process, behind a narrow IPC bridge, with search over IndexedDB.
 - **[App Website Wrapper](https://apps.microsoft.com/detail/9phk8k3xgzhn)** on the Microsoft Store: turns a website URL or a local HTML project into a signed Android APK. The app drives the build toolchain in child processes and streams their output to the UI.
-- **Colour Picker Manage**: a screen colour picker built on Electron's `desktopCapturer`, with an eyedropper mode that stays on top of other windows.
-- **Screen Hide**: an always-on-top overlay that covers part or all of the screen with a colour or an image.
+- **Colour Picker Manage** on the Microsoft Store: a screen colour picker built on Electron's `desktopCapturer`, with an eyedropper mode that stays on top of other windows.
+- **Screen Hide** on the Microsoft Store: an always-on-top overlay, locked with a PIN, that covers part or all of the screen with a colour or an image.
+- **[Countdown With Numbers](https://apps.microsoft.com/detail/9pnv35gpqmqd)** on the Microsoft Store: a numbers game inspired by a UK game show, built with .NET MAUI Blazor Hybrid in C#.
 - **On-device image tools** (2023): find small images inside large ones (OpenCV.js), and search or classify images by their contents (TensorFlow.js and ml5).
 - **Earlier Electron apps** (2018 to 2019): cross-platform crypto wallets ([P3C Wallet](https://github.com/VitalJeevanjot/p3cwallet), [Funcoin Wallet](https://github.com/VitalJeevanjot/Funcoin-Wallet)), a Steem client ([qSteem](https://github.com/VitalJeevanjot/qSteem)) and a Byteball voting app ([Bvoting](https://github.com/VitalJeevanjot/Bvoting)), all built with Quasar.
 
@@ -21,7 +22,7 @@ Desktop and native app engineer in Amritsar, India (IST, UTC+5:30). I build cros
 
 #### AI and web
 
-- **[Time&Dime](https://github.com/VitalJeevanjot/time-and-dime)**: a local-first, timed scenario calculator that browser agents can drive through WebMCP tools. Vue 3, Decimal.js, tests and CI. [Live demo](https://time-and-dime.netlify.app)
+- **[Time&Dime](https://github.com/VitalJeevanjot/time-and-dime)**: a local-first, timed scenario calculator that browser agents can drive through 17 WebMCP tools. Vue 3, Decimal.js, tests and CI. [Live demo](https://time-and-dime.netlify.app)
 
 #### Earlier blockchain work
 
