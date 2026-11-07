@@ -1,8 +1,14 @@
 ### Hi, I'm Jeevanjot Singh Vital
 
-Desktop and native app engineer in Amritsar, India (IST, UTC+5:30). I build cross-platform desktop apps with Electron, Apple-platform apps with Swift and SwiftUI, and web apps that browser agents can drive through WebMCP. I have six paid apps out: five on the Microsoft Store and one on the App Store. Before that, from 2018 to 2022, I shipped blockchain oracles, protocols, bots and open-source tooling.
+Full-stack developer in Amritsar, India (IST, UTC+5:30). I build web apps and the back ends behind them (Node.js, PostgreSQL, ASP.NET Core, AWS Amplify), cross-platform desktop apps with Electron, and Apple-platform apps with Swift and SwiftUI. I have six paid apps out: five on the Microsoft Store and one on the App Store. Before that, from 2018 to 2022, I shipped blockchain oracles, protocols, bots and open-source tooling.
 
 [Website](https://jeevanjotsinghvital.com) · [LinkedIn](https://www.linkedin.com/in/jeevanjot-singh/) · [YouTube](https://www.youtube.com/@VitalJeevanjot) · [Medium](https://jeevanjotsinghvital.medium.com/) · [DEV](https://dev.to/genievot) · [Devpost](https://devpost.com/genievot)
+
+#### Full stack and web
+
+- **Fine Exchange AOM** (2022, [demo](https://www.youtube.com/watch?v=5utpoACchuE)): an order manager for market makers at my UK company, Fine Exchange Ltd. I built the whole stack: an Electron and Quasar client, an Express API on Node.js, BullMQ job queues with state in PostgreSQL, and exchange connections through CCXT. The source is private.
+- **[Time&Dime](https://github.com/VitalJeevanjot/time-and-dime)** (2026): a local-first, timed scenario calculator that browser agents can drive through 17 WebMCP tools. Vue 3, Decimal.js, tests and CI. [Live demo](https://time-and-dime.netlify.app)
+- **Tutorial Maker** (2023): a platform for live, interactive website demos on ASP.NET Core Blazor Server, Entity Framework Core and SQL Server. The source is private.
 
 #### Desktop apps
 
@@ -19,10 +25,6 @@ Desktop and native app engineer in Amritsar, India (IST, UTC+5:30). I build cros
 - **[PicMik](https://apps.apple.com/app/id6504264044)** on the App Store: pair photos with recorded audio and share them (iPhone and iPad).
 - **Tutorials**: [WebKit Viewer](https://github.com/VitalJeevanjot/webkitViewer-tutorial) (WKWebView, a Swift and JavaScript bridge, SwiftData) and [Image Splitter](https://github.com/VitalJeevanjot/ImageSplitter-tut1) (a before-and-after slider for iOS, macOS and visionOS).
 - **Virtualization prototypes** (in progress): a macOS VM manager, and a Linux VM runner that provisions Debian with cloud-init and talks to it over a virtio serial console. Both use Apple's Virtualization framework.
-
-#### AI and web
-
-- **[Time&Dime](https://github.com/VitalJeevanjot/time-and-dime)**: a local-first, timed scenario calculator that browser agents can drive through 17 WebMCP tools. Vue 3, Decimal.js, tests and CI. [Live demo](https://time-and-dime.netlify.app)
 
 #### Earlier blockchain work
 
