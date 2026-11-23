@@ -22,7 +22,7 @@ Full-stack developer in Amritsar, India (IST, UTC+5:30). I build web apps and th
 
 #### Native apps (Swift and SwiftUI)
 
-- **[PicMik](https://apps.apple.com/app/id6504264044)** on the App Store: pair photos with recorded audio and share them (iPhone and iPad).
+- **[PicMik](https://apps.apple.com/app/id6504264044)** on the App Store ([source](https://github.com/VitalJeevanjot/ImageVoiceNotes)): pair photos with recorded audio and share them as a single `.picmik` file (iPhone and iPad).
 - **BulBul SEQS** (2026, [app](https://github.com/VitalJeevanjot/BulBul-SEQS-SwiftUI-Frontend) and [back end](https://github.com/VitalJeevanjot/BulBul-SEQS-Amplify-Backend)): UK self-employment record keeping for HMRC's Making Tax Digital, from one SwiftUI codebase on iOS and macOS. The AWS Amplify Gen 2 back end handles Cognito sign-in with required TOTP, HMRC OAuth, and typed AppSync operations backed by Lambda. About 60 tests; built with AI coding agents.
 - **Tutorials**: [WebKit Viewer](https://github.com/VitalJeevanjot/webkitViewer-tutorial) (WKWebView, a Swift and JavaScript bridge, SwiftData) and [Image Splitter](https://github.com/VitalJeevanjot/ImageSplitter-tut1) (a before-and-after slider for iOS, macOS and visionOS).
 - **Virtualization prototypes** (in progress): a macOS VM manager, and a Linux VM runner that provisions Debian with cloud-init and talks to it over a virtio serial console. Both use Apple's Virtualization framework.
