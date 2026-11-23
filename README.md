@@ -2,7 +2,7 @@
 
 Full-stack developer in Amritsar, India (IST, UTC+5:30). I build web apps and the back ends behind them (Node.js, PostgreSQL, ASP.NET Core, AWS Amplify), cross-platform desktop apps with Electron, and Apple-platform apps with Swift and SwiftUI. I have six paid apps out: five on the Microsoft Store and one on the App Store. Before that, from 2018 to 2022, I shipped blockchain oracles, protocols, bots and open-source tooling.
 
-[Website](https://jeevanjotsinghvital.com) · [LinkedIn](https://www.linkedin.com/in/jeevanjot-singh/) · [YouTube](https://www.youtube.com/@VitalJeevanjot) · [Medium](https://jeevanjotsinghvital.medium.com/) · [DEV](https://dev.to/genievot) · [Devpost](https://devpost.com/genievot)
+[Website](https://jeevanjotsinghvital.com) · [LinkedIn](https://www.linkedin.com/in/jeevanjot-singh/) · [YouTube](https://www.youtube.com/@VitalJeevanjot) · [Medium](https://jeevanjotsinghvital.medium.com/) · [DEV](https://dev.to/genievot) · [Devpost](https://devpost.com/vitaljeevanjot)
 
 #### Full stack and web
 
